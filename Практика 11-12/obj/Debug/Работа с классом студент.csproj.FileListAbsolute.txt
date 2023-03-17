@@ -1,0 +1,21 @@
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\bin\Debug\Практика 11-12.exe.config
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\bin\Debug\Практика 11-12.exe
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\bin\Debug\Практика 11-12.pdb
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Практика_11_12.Student_work.resources
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Практика_11_12.Properties.Resources.resources
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Работа с классом студент.csproj.GenerateResource.cache
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Работа с классом студент.csproj.CoreCompileInputs.cache
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Практика 11-12.exe
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Практика 11-12.pdb
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Работа с классом студент.csproj.AssemblyReference.cache
+F:\Практическа 11-12\Практика 11-12\bin\Debug\Практика 11-12.exe.config
+F:\Практическа 11-12\Практика 11-12\bin\Debug\Практика 11-12.exe
+F:\Практическа 11-12\Практика 11-12\bin\Debug\Практика 11-12.pdb
+F:\Практическа 11-12\Практика 11-12\obj\Debug\Работа с классом студент.csproj.AssemblyReference.cache
+F:\Практическа 11-12\Практика 11-12\obj\Debug\Работа с классом студент.csproj.SuggestedBindingRedirects.cache
+F:\Практическа 11-12\Практика 11-12\obj\Debug\Практика_11_12.Student_work.resources
+F:\Практическа 11-12\Практика 11-12\obj\Debug\Практика_11_12.Properties.Resources.resources
+F:\Практическа 11-12\Практика 11-12\obj\Debug\Работа с классом студент.csproj.GenerateResource.cache
+F:\Практическа 11-12\Практика 11-12\obj\Debug\Работа с классом студент.csproj.CoreCompileInputs.cache
+F:\Практическа 11-12\Практика 11-12\obj\Debug\Практика 11-12.exe
+F:\Практическа 11-12\Практика 11-12\obj\Debug\Практика 11-12.pdb

@@ -1,0 +1,10 @@
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\bin\Debug\Практика 11-12.exe.config
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\bin\Debug\Практика 11-12.exe
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\bin\Debug\Практика 11-12.pdb
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Student_work.csproj.AssemblyReference.cache
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Практика_11_12.Form1.resources
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Практика_11_12.Properties.Resources.resources
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Student_work.csproj.GenerateResource.cache
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Student_work.csproj.CoreCompileInputs.cache
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Практика 11-12.exe
+C:\Users\305-1\Desktop\Рабочий стол\Пр21 Максимов\Практическа 11-12\Практика 11-12\obj\Debug\Практика 11-12.pdb
